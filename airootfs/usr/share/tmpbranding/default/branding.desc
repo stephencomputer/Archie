@@ -127,7 +127,7 @@ strings:
     shortVersion:        Rolling
     versionedName:       Arch Linux
     shortVersionedName:  Arch Linux
-    bootloaderEntryName: Arch Linux
+    bootloaderEntryName: Arch
     productUrl:          https://archlinux.org
 
 # These images are loaded from the branding module directory.
