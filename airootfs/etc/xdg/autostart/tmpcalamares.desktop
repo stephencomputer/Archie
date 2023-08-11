@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Arch Linux
+Name[da]=Installer Arch Linux
+GenericName=Arch Linux Installer
+GenericName[da]=Live - Arch Linux
+Comment=Calamares - Arch Linux Installer
+Comment[da]=Installer styresystemet på disk
+Comment[de]=Linux installieren
+Exec=/usr/bin/calamares_polkit %f
+Icon=archlinux-logo
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Qt;System;

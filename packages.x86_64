@@ -135,6 +135,8 @@ xorg-xwayland
 
 # Plasma stuff
 plasma
+plasma-nm
+sddm
 
 # Networking
 networkmanager
